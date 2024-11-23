@@ -1,4 +1,4 @@
-const variable = "variabel adalah sebuah wadah yang digunakan untuk menampung suatu nilai dalam javascript dapat berupa let(nilai yang dapat diubah) atau const(nilai tetap dan tidal bisa diubah";
+const variable = "variabel adalah sebuah wadah yang digunakan untuk menampung suatu nilai dalam javascript dapat berupa let(nilai yang dapat diubah) atau const(nilai tetap dan tidak bisa diubah";
 const tipe_data = "tipe data dalam js yaitu bentuk dari sebuah data yang dimasukkan ke dalam variabel dapat berupa string(huruf atau angka yang di apit tanda petik), integer(angka), float(bilangan desimal), boolean(true/false)";
 
 
